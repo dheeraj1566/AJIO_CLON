@@ -13,7 +13,7 @@ const Slideshow = () => {
   ];
 
   return (
-    <div className="w-full max-w-screen-lg mx-auto py-8 mt-40">
+    <div className="w-full  mx-auto py-8 mt-40">
       <Slide
   autoplay={true}
   transitionDuration={100}

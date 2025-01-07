@@ -14,8 +14,12 @@ function App() {
       <main className="min-h-screen">
         <Outlet />
       </main>
+      <div className="men min-h-screen">
       <Men />
+      </div>
+      <div className="last min-h-screen">
       <Newfeshion />
+      </div>
       <Footer />
     </div>
   );

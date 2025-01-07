@@ -8,8 +8,12 @@ function Home() {
     <div className="min-h-screen">
       {/* Slider Section */}
       <Slideshow />
-      <div>
-        <img src="src/assets/PROEARTH (1).avif" alt="photo" />
+      <div className="w-full  mx-auto py-8">
+      <img 
+      src="src/assets/PROEARTH (1).avif" 
+      alt="photo" 
+      className="w-full h-auto object-cover rounded-lg shadow-md" 
+    />
       </div>
       {/* <Men />
       <Newtrand /> */}
