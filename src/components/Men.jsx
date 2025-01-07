@@ -4,7 +4,7 @@ function Men() {
   return (
     <div className="grid grid-cols-2 h-screen">
       {/* Men's Section */}
-      <div className="bg-blue-100 flex flex-col items-center justify-center">
+      <div className=" flex flex-col items-center justify-center">
         <div className="relative w-3/4 h-2/3 mb-4">
           {/* Men's Image */}
           <img
@@ -52,7 +52,7 @@ function Men() {
       </div>
 
       {/* Women's Section */}
-      <div className="bg-pink-100 flex flex-col items-center justify-center">
+      <div className=" flex flex-col items-center justify-center">
         <div className="relative w-3/4 h-2/3 mb-4">
           {/* Women's Image */}
           <img

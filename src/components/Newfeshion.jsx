@@ -13,7 +13,6 @@ import { TbBrightness2 } from "react-icons/tb";
 
 function Newfeshion() {
   return (
-    <> 
     <div className="newTrand">
     <h2 className="text-6xl text-gray-600  text-center my-6">Hot New Trends </h2>
     <div className="newTrend w-full my-4">
@@ -55,7 +54,6 @@ function Newfeshion() {
    <div><TbBrightness2 className='ml-8 text-6xl my-4 text-gray-700'/> <span  className=' font-medium'>ASSURED QUALITY</span></div> 
    </div>
     </div>
-    </>
   )
 }
 
